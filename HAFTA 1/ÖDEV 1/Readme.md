@@ -3,7 +3,7 @@ Java'da Nesne Yönelimli Programlama (OOP) temel prensiplerini göstermek amacı
 
 KULLANDIĞIM PARAMETRELER VE METOTLAR
 
-Alan Hesaplama (getArea): Dikdörtgenin alanını hesaplar (width height).
+Alan Hesaplama (getArea): Dikdörtgenin alanını hesaplar (width * height).
 
 Çevre Hesaplama (getPerimeter): Dikdörtgenin çevresini hesaplar (2 * (width + height) ).
 
